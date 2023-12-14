@@ -1,4 +1,4 @@
-# kitchen
+# Meal Master
 
 A new Flutter project.
 
